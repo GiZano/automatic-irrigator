@@ -1,0 +1,26 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.piolibdeps/
+.pio/build/
+
+# Cartella lib generata automaticamente
+lib/
+
+# Dipendenze e file di sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# File di configurazione locale
+/platformio.ini.local
+/sdkconfig.old
+
+# File di backup
+*.bak
+*.tmp
+
+# Log files
+*.log
